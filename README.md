@@ -1,3 +1,3 @@
-# Projects Python
+# Projects Python - codes learning
 
-Este repósitorio foi criado com o intuito de alimentar o repósitorio com códigos simples até código mais elaborados. Observando a evolução de cada código.
+Aprendendo linguagem Python com resolução de desafios simples
